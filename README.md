@@ -1,3 +1,8 @@
+**Note:**
+> This repo is a reference solution to homework assignment 10 of the PL2 course
+> taught at NTUA. The course material can be found here
+> https://github.com/zoep/PL2 .
+
 # Stack Based Virtual Machine
 
 The objective of this exercise is to implement a stack-based virtual machine in
@@ -357,4 +362,4 @@ io::stdin()
 ## Bug Reports
 
 If you believe that you have found a bug in the MiniML compiler please report it
-to the instructor.
+to the instructor in the [upstream repo](https://github.com/zoep/PL2).
